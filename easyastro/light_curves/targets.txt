@@ -1,0 +1,2 @@
+target		RA		DEC		epoch_HJD-2400000	Period width		Secondary
+J0555-57    05h55m32.62s -57d17m26.1s 56712.6452 7.757676 2.4 True
