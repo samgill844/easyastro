@@ -1,3 +1,14 @@
-from .test import test_function
-from . import radial_velocity
-from . import light_curves
+from . import observation
+from . import aperture_photometry
+from . import fitting
+
+from . import pyEBLMMASS
+
+try:
+	from . import period
+except:
+	pass
+from . import binary_model
+
+from . import GPU_acceleration
+
