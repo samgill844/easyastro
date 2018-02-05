@@ -1,0 +1,2 @@
+nvcc -Wno-deprecated-gpu-targets -Xcompiler -fPIC -shared -o easy_binary.so easy_binary.cu 
+
