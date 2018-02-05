@@ -1,0 +1,2 @@
+nvcc -Xcompiler -fPIC -shared -o GPU_functions.so GPU_functions.cu 
+
